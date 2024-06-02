@@ -18,8 +18,7 @@ To run the analysis, follow these steps:
 ```bash
 git clone https://github.com/cbutcher9/MSc_thesis_peak_learning/
 cd MSc_thesis_peak_learning
-conda env create -f requirements.txt
-conda activate thesis_final
+conda create --name <env_name> --file requirements.txt
 ```
 Then, start Jupyter Notebook:
 ```
