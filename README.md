@@ -13,7 +13,7 @@ This project aims to find the insulin-related peaks that are created during the 
 
 ## Running the Analysis
 
-To run the analysis, follow these steps:
+To run the analysis, follow these steps, making sure to name the environment:
 
 ```bash
 git clone https://github.com/cbutcher9/MSc_thesis_peak_learning/
