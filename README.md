@@ -32,7 +32,7 @@ code
 
 ## Usage
 
-Once the Jupyter Notebook server is running, open the desired notebook (find_map.ipynb or v1.ipynb) to explore the analysis and results.
+Once the Jupyter Notebook server is running, open the desired notebook (pearson_approach.ipynb or spearman_approach.ipynb) to explore the analysis and results.
 
 ## Data Availability
 
